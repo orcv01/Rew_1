@@ -1,0 +1,14 @@
+header {
+    height: 10 vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    font-size: 30 px;
+    text-transform: uppercase;
+}
+
+h1 {
+    padding:15px;
+}
